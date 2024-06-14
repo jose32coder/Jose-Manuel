@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td align="center"><img src="src/image/Git.svg" alt="git" width="50" height="50"><br>GIT</td>
-    <td align="center"><img src="src/image/Github.svg" alt="github" width="50" height="50"><br>GITHUB</td>
+    <td align="center"><img src="src/image/GitHub.svg" alt="github" width="50" height="50"><br>GITHUB</td>
     <td align="center"><img src="src/image/npm.svg" alt="npm" width="50" height="50"><br>NPM</td>
   </tr>
   <tr>
