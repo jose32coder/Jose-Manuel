@@ -10,7 +10,7 @@
   <tr>
     <td align="center"><img src="src/image/html.png" alt="html" width="40" height="40"><br>Html</td>
     <td align="center"><img src="src/image/css.png" alt="css" width="40" height="40"><br>Css</td>
-    <td align="center"><img src="src/image/tailwind.png" alt="tailwind" width="40" height="40"><br>Tailwind</td>
+    <td align="center"><img src="src/image/tailwind.png" alt="tailwind" width="40" height="30"><br>Tailwind</td>
     <td align="center"><img src="src/image/bootstrap.png" alt="bootstrap" width="40" height="40"><br>Boostrap</td>
   </tr>
   <tr>
