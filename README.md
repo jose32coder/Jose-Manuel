@@ -34,7 +34,6 @@
   <tr>
     <td align="center"><img src="src/image/docker.svg" alt="docker" width="40" height="40"><br>Docker</td>
     <td align="center"><img src="src/image/powershell.svg" alt="powershell" width="40" height="40"><br>PowerShell</td>
-    <td align="center"><img src="src/image/gradle.svg" alt="gradle" width="40" height="40"><br>Gradle</td>
   </tr>
 </table>
 
